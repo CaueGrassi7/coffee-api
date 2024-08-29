@@ -22,7 +22,7 @@ This project is an API built using **Java, Java Spring, PostgresSQL as the datab
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/Fernanda-Kipper/auth-api.git
+git clone https://github.com/CauegRASSI7/products-auth-api.git
 ```
 
 2. Install dependencies with Maven
