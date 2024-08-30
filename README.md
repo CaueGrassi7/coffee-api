@@ -4,13 +4,16 @@
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![Swagger](https://img.shields.io/badge/swagger-%23Clojure.svg?style=for-the-badge&logo=swagger&logoColor=white)
 
-This project is an API built using **Java, Java Spring, PostgresSQL as the database, and Spring Security and JWT for authentication control.**
+
+
+This project is an API built using **Java**, **Java Spring**, **PostgreSQL** as the database, and **Spring Security** and **JWT** for authentication control. The API is documented using **Swagger**, providing an interactive interface for exploring and testing the endpoints.
+
 
 ## Table of Contents
 
 - [Installation](#installation)
-- [Configuration](#configuration)
 - [Usage](#usage)
 - [API Endpoints](#api-endpoints)
 - [Authentication](#authentication)
